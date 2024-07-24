@@ -1,4 +1,7 @@
-:root {
-    background-color: darkgray;
+body {
+    background-color: #758694;
 }
 
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: #405D72 !important;
+}
